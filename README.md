@@ -1,6 +1,6 @@
 # GAN_Projects
 Generative Adversarial Networks are the future of AI primarily because they are different from your typical computer vision models.
-What makes GANs unique is the fact that these computer vision model generate/create new data from previous data instead of just describing the data that it sees.
+What makes GANs unique is the fact that these computer vision models generate/create new data from previous data instead of just describing the data that it sees.
 
 Most computer vision news articles that you hear of today are focused on descriptive modeling, meaning that these models were built to describe what it sees within a particular image or video sequence...GANS are much different.
 
@@ -12,4 +12,4 @@ In this repository, we have (and continue_ to create many GAN appllications that
 
 Thanks for taking the time to looking at our repo and we look forward to creating more GAN applications in the near future.
 
-- VisionLogic 
+VisionLogic Team
